@@ -1,0 +1,7 @@
+Flask==0.11.1
+flask_restful
+uuid
+gunicorn
+wsgiref
+Werkzeug
+distribute
